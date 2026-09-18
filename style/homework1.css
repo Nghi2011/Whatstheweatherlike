@@ -1,0 +1,14 @@
+body{
+    background-image: url(../image/897004.jpg);
+    background-size: cover;
+}
+#searchCityWeatherForecast{
+    justify-content: end;
+}
+#city_TimeAndDateWithWeatherForecast{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+#weatherForecastContainer{
+    width: 50%;
+}
